@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867868869709",
+    "project_id": "commutify-47806",
+    "storage_bucket": "commutify-47806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867868869709:android:cc0fb9c501038baa8a0804",
+        "android_client_info": {
+          "package_name": "com.example.commutify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867868869709-07q2l0lf3bvopau8bg3pe2bnac7sh089.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZP3qUJPMOCgzjgl-xWF04NNqr8JNdxp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867868869709-07q2l0lf3bvopau8bg3pe2bnac7sh089.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
